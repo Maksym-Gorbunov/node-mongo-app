@@ -1,0 +1,13 @@
+npm install express
+            ejs
+            body-parser
+            nodemailer
+
+
+npm init
+npm audit fix
+npm run serve
+npm -v
+sudo npm i -g typescript
+npm install express
+npm uninstall express
