@@ -1,4 +1,5 @@
 npm install express
+            mongoose
             ejs
             body-parser
             nodemailer
@@ -11,3 +12,15 @@ npm -v
 sudo npm i -g typescript
 npm install express
 npm uninstall express
+
+
+ npm init -y
+ 
+ npm install express
+ npm install mongoose
+ npm i -D nodemon
+ npm test
+ npm start
+ npm i express-handlebars
+ npm run dev
+ 
